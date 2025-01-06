@@ -3,6 +3,7 @@ Description
 The Procurement Management System is a web application designed to streamline the procurement process for businesses. It allows users to manage suppliers, purchase orders, inventory, and other procurement activities efficiently. The system is built using the MERN stack (MongoDB, Express, React, Node.js).
 
 Key Features
+--------------------------------------------
 Supplier Management: Add, update, and manage supplier details.
 Purchase Orders: Create, update, and track purchase orders.
 Inventory Management: Monitor stock levels and manage products.
@@ -12,7 +13,7 @@ Real-time Data: Use of WebSocket (or similar) for real-time updates on inventory
 
 
 Technologies Used
-...
+-------------------------------------
 MongoDB: NoSQL database for storing procurement data.
 Express.js: Backend framework for handling API requests.
 React.js: Frontend framework for building the user interface.
@@ -21,6 +22,7 @@ JWT (JSON Web Tokens): For secure user authentication.
 
 
 Installation & Setup
+--------------------------------------------------
 Prerequisites
 Make sure you have the following installed on your machine:
 
